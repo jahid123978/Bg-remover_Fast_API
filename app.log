@@ -1,0 +1,42 @@
+2025-07-16 01:34:35,399 - app.main - INFO - Starting application...
+2025-07-16 01:34:35,400 - app.core.model_manager - INFO - Authenticating with Hugging Face...
+2025-07-16 01:34:37,285 - huggingface_hub._login - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-07-16 01:34:37,286 - app.core.model_manager - INFO - Successfully authenticated with Hugging Face
+2025-07-16 01:34:37,286 - app.core.model_manager - INFO - Loading RMBG-2.0 model on cpu
+2025-07-16 01:34:39,578 - app.core.model_manager - ERROR - Failed to load model: This modeling file requires the following packages that were not found in your environment: kornia, timm. Run `pip install kornia timm`
+2025-07-16 01:37:54,334 - app.main - INFO - Starting application...
+2025-07-16 01:37:54,337 - app.core.model_manager - INFO - Authenticating with Hugging Face...
+2025-07-16 01:37:55,413 - huggingface_hub._login - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-07-16 01:37:55,415 - app.core.model_manager - INFO - Successfully authenticated with Hugging Face
+2025-07-16 01:37:55,417 - app.core.model_manager - INFO - Loading RMBG-2.0 model on cpu
+2025-07-16 01:38:14,996 - app.core.model_manager - INFO - Model loaded successfully
+2025-07-16 01:38:14,997 - app.main - INFO - Application started successfully
+2025-07-16 01:55:47,435 - app.api.endpoints.background - INFO - Processing image with size: (225, 225)
+2025-07-16 02:10:31,095 - app.main - INFO - Shutting down application...
+2025-07-16 02:10:31,406 - app.core.model_manager - INFO - Model unloaded successfully
+2025-07-16 02:10:31,408 - app.main - INFO - Application shut down successfully
+2025-07-16 02:11:53,302 - app.main - INFO - Starting application...
+2025-07-16 02:11:53,302 - app.core.model_manager - INFO - Authenticating with Hugging Face...
+2025-07-16 02:11:54,544 - huggingface_hub._login - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-07-16 02:11:54,545 - app.core.model_manager - INFO - Successfully authenticated with Hugging Face
+2025-07-16 02:11:54,546 - app.core.model_manager - INFO - Loading RMBG-2.0 model on cpu
+2025-07-16 02:12:12,818 - app.core.model_manager - INFO - Model loaded successfully
+2025-07-16 02:12:12,818 - app.main - INFO - Application started successfully
+2025-07-16 02:17:19,885 - app.main - INFO - Shutting down application...
+2025-07-16 02:17:19,887 - app.core.model_manager - INFO - Model unloaded successfully
+2025-07-16 02:17:19,888 - app.main - INFO - Application shut down successfully
+2025-07-16 02:17:43,037 - app.main - INFO - Starting application...
+2025-07-16 02:17:43,038 - app.core.model_manager - INFO - Authenticating with Hugging Face...
+2025-07-16 02:17:44,116 - huggingface_hub._login - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-07-16 02:17:44,117 - app.core.model_manager - INFO - Successfully authenticated with Hugging Face
+2025-07-16 02:17:44,117 - app.core.model_manager - INFO - Loading RMBG-2.0 model on cpu
+2025-07-16 02:17:53,418 - app.core.model_manager - INFO - Model loaded successfully
+2025-07-16 02:17:53,419 - app.main - INFO - Application started successfully
+2025-07-16 02:18:03,992 - app.main - INFO - Starting application...
+2025-07-16 02:18:03,992 - app.core.model_manager - INFO - Authenticating with Hugging Face...
+2025-07-16 02:18:05,006 - huggingface_hub._login - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-07-16 02:18:05,007 - app.core.model_manager - INFO - Successfully authenticated with Hugging Face
+2025-07-16 02:18:05,008 - app.core.model_manager - INFO - Loading RMBG-2.0 model on cpu
+2025-07-16 02:18:13,154 - app.core.model_manager - INFO - Model loaded successfully
+2025-07-16 02:18:13,155 - app.main - INFO - Application started successfully
+2025-07-16 02:22:13,392 - app.api.middleware - INFO - HTTP Exception [401]: Invalid authentication credentials
